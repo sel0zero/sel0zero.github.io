@@ -1,4 +1,4 @@
-baseURL: "https://selimyalcin.com/tr/"
+baseURL: "https://selimyalcin.com/"
 publishDir: "docs"
 title: "sel0zero"
 theme: PaperMod
